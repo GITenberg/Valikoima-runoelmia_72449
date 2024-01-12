@@ -1,0 +1,43 @@
+_repo: Valikoima-runoelmia_72449
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Simojoki, Aukusti
+    alias: Simelius, Aukusti
+    birthdate: 1882
+    deathdate: 1959
+    gutenberg_agent_id: '43322'
+    url: http://www.gutenberg.org/2009/agents/43322
+    wikipedia: https://fi.wikipedia.org/wiki/Aukusti_Simojoki
+creator:
+  author:
+    agent_name: Wecksell, J. J. (Josef Julius)
+    alias: Wecksell, Josef Julius
+    birthdate: 1838
+    deathdate: 1907
+    gutenberg_agent_id: '5347'
+    url: http://www.gutenberg.org/2009/agents/5347
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Josef_Julius_Wecksell
+    - https://en.wikipedia.org/wiki/Josef_Julius_Wecksell
+    - https://fi.wikipedia.org/wiki/Josef_Julius_Wecksell
+description: ''
+gutenberg_issued: '2023-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72449'
+language: fi
+pgterms:marc905: 20231207033723wecksell
+pgterms:marc906: '1906'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bSuomalaisen Kansan Kirjapaino, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish poetry -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Valikoima runoelmia
+url: http://www.gutenberg.org/ebooks/72449
