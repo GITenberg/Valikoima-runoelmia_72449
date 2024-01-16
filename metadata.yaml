@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '43322'
     url: http://www.gutenberg.org/2009/agents/43322
     wikipedia: https://fi.wikipedia.org/wiki/Aukusti_Simojoki
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wecksell, J. J. (Josef Julius)
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Josef_Julius_Wecksell
     - https://fi.wikipedia.org/wiki/Josef_Julius_Wecksell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72449#Valikoima-runoelmia
 gutenberg_issued: '2023-12-18'
 gutenberg_type: Text
 identifiers:
